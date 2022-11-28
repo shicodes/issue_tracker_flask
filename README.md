@@ -1,1 +1,1 @@
-# H1 Issue Tracker - Flask App
+# Issue Tracker - Flask App
